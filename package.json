@@ -4,7 +4,7 @@
   "description": "Github-slideshow tutorial",
   "main": "index.js",
   "dependencies": {
-    "reveal.js": "^3.9.2"
+    "reveal.js": "^4.3.0"
   },
   "devDependencies": {},
   "scripts": {
