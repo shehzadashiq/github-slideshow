@@ -1,0 +1,23 @@
+{
+  "name": "github-slideshow",
+  "version": "1.0.0",
+  "description": "Github-slideshow tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "reveal.js": "^3.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehzadashiq/github-slideshow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shehzadashiq/github-slideshow/issues"
+  },
+  "homepage": "https://github.com/shehzadashiq/github-slideshow#readme"
+}
